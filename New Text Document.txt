@@ -1,0 +1,5 @@
+ IP oneblck69420.aternos.me
+
+PORT  39225
+
+BOT NOOB
